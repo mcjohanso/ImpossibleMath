@@ -1,0 +1,8 @@
+A says to S and P: I have chosen two integers x, y such that 1 < x < y and x + y <= 100.
+In a moment I will inform S only of s = x + y and P only of p = xy. These announcements will be private.
+You are required to determine the pair (x,y). The following conversation takes place.
+    1. P says: I do not know the pair
+    2. S says I knew you didn't"
+    3. P says: Now I know it
+    4. S says: I know it too.
+Determine (x,y)
